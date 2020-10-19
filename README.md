@@ -1,2 +1,2 @@
 # accessibility
-Project in computer vision to recognize the accessibility of places.
+Computer vision project to recognize the accessibility of places.
