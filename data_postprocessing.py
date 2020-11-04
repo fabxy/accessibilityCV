@@ -32,4 +32,4 @@ for key in raw_data.keys():
 # convert to DataFrame and write csv
 out_file = "data.csv"
 df = pd.DataFrame(data, columns=['img','label'])
-df.to_csv(out_file)
+df.to_csv(out_file, index=False)
